@@ -2,7 +2,7 @@
 
 [本課程主網頁](https://elearning.nkust.edu.tw/moocs/#/learning/10110583)
 
-[python](#python-筆記)
+[python](#python筆記)
 
 [javascript](#javascript)
 
